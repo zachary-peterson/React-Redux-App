@@ -74,7 +74,7 @@ const AroundTheWorld = styled.header`
 const Header = (props) => {
     return (
         <SpaceBreak>
-            <br /><br />
+            <br />
             <AroundTheWorld>
                 <div>
                     <div>

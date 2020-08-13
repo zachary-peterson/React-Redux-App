@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { connect } from "react-redux";
 import styled from 'styled-components';
 
+
 const CountryContainer = styled.article`
     width: 45%;
     margin: 2% auto;

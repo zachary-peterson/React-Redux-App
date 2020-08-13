@@ -7,7 +7,7 @@ import { fetchCountries } from '../store';
 import CountryCard from './CountryCard';
 
 const CountriesContainer = styled.section`
-    background-color: #12343b;;
+    background-color: #12343b;
     display: flex;
     flex-flow: row wrap;
     width: 95%;
@@ -15,9 +15,19 @@ const CountriesContainer = styled.section`
     border: 5px solid white;
 `
 
+const Loading = styled.div`
+    height: vh;
+    width: 90%;
+    margin: 2.5% auto;
+    background-color: #12343b;
+    color: white;
+    font-size: 2rem;
+`
+
 const Body = (props) => {
 
     useEffect(() => {
+        debugger
         props.fetchCountries();
     }, [])
 
@@ -25,10 +35,10 @@ const Body = (props) => {
 
     return (
         <CountriesContainer>
-        {props.isLoading ? <h4>Loading missions now...</h4> : null}
+        {props.isLoading ? <Loading>Loading countries now...</Loading> : null}
         {props.error ? (
         <p style={{ color: "red" }}>
-          Uh oh... something happened 😟 {props.error}
+          Error: {props.error}
         </p>
       ) : null}
         {props.countries.length > 0 ? props.countries.map(country => {
@@ -42,7 +52,7 @@ const Body = (props) => {
 const mapStateToProps = (state) => {
     return {
         countries: state.countries,
-        isLoading: false,
+        isLoading: state.isLoading,
         error: ''
     };
   };
