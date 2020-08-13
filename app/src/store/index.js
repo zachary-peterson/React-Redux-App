@@ -1,2 +1,2 @@
 export { reducer } from "./reducers";
-export { fetchCharacters } from "./actions";
+export { fetchCountries } from "./actions";

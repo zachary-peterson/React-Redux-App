@@ -1,7 +1,7 @@
-import { FETCHING_CHARACTER_START, FETCH_CHARACTER_SUCCESS } from '../actions'
+import { FETCHING_COUNTRY_START, FETCH_COUNTRY_SUCCESS } from '../actions'
 
 export const initialState = {
-    characters: [],
+    countries: [],
     isLoading: false,
     error: ''
 };
@@ -9,17 +9,18 @@ export const initialState = {
 
 export const mainReducer = (state = initialState, action) => {
     switch(action.type){
-    case FETCHING_CHARACTER_START:
+    case FETCHING_COUNTRY_START:
         return {
             ...state,
             isLoading: true,
             error: ""
         };
-        case FETCH_CHARACTER_SUCCESS:
+        case FETCH_COUNTRY_SUCCESS:
+            console.log('Success path is running')
         return {
             ...state,
             isLoading: false,
-            missions: action.payload
+            countries: action.payload
         };
         default:
         return state;
