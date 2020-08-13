@@ -10,7 +10,7 @@ const CountriesContainer = styled.section`
     background-color: #2d545e;
     display: flex;
     flex-flow: row wrap;
-    width: 100%;
+    width: 95%;
     margin: 1% auto;
     border: 5px solid white;
 `

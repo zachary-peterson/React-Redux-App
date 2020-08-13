@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 const CountryContainer = styled.article`
     width: 45%;
-    margin: 1% auto;
+    margin: 2% auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,14 +22,24 @@ const CountryContainer = styled.article`
         font-size: 1.25rem;
         border: 3px solid white;
 
+        &:hover {
+            background-color: rgba( 47, 48, 48, 1);
+
+            ul {
+                background-color: black;
+            }
+        }
+
         h2 {
             font-family: 'Rowdies', cursive;
             font-size: 3.5rem;
+            margin: 2% auto;
         }
 
         h3  {
             font-family: 'Baloo Chettan 2', cursive;
             font-size: 2rem;
+            margin: 2% auto;
         }
 
         ul {
@@ -41,7 +51,7 @@ const CountryContainer = styled.article`
 
             li {
                 text-align: right;
-                margin: 0.5% 2%;
+                margin: 2% 2%;
                 margin-left: 3%;
                 font-family: 'Baloo Chettan 2', cursive;
                 font-size: 1.25rem;

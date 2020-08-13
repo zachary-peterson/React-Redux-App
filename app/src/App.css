@@ -50,8 +50,6 @@ table {
 .App {
   text-align: center;
   background-color: black;
-  border: 20px solid black;
-  margin: 0 0;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Patrick+Hand&display=swap');
