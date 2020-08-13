@@ -23,10 +23,12 @@ const CountryContainer = styled.article`
         border: 3px solid white;
 
         &:hover {
-            background-color: rgba( 47, 48, 48, 1);
+            background-color: #755634;
+            border: 3px solid black;
 
             ul {
-                background-color: black;
+                background-color: rgba( 47, 48, 48, 1);
+                border: 2px solid black;
             }
         }
 

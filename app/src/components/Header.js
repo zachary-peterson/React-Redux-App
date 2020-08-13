@@ -22,19 +22,24 @@ const AroundTheWorld = styled.header`
         margin: 1% 2%;
 
         div {
-            background-color: #271e0c;
+            background-image: url('https://images.unsplash.com/photo-1503220954697-e02095e8e0d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+            background-repeat:no-repeat;
+            background-size: cover;
             border: 5px solid white;
+
 
             div {
                 background-color: #755634;
                 margin: 3% 3%;
                 border: 5px solid black;
+                background-image: none;
                 
                 h1,h2 {
                     font-family: 'Delius Unicase', cursive;
                     margin: 0 1%;
                     padding: 2% 0;
                     text-shadow: 2px 3px #271e0c;
+                    line-height: .5;
                 }
 
                 h1 {
@@ -72,7 +77,7 @@ const Header = (props) => {
             <AroundTheWorld>
                 <div>
                     <div>
-                        <div>
+                        <div id='clean'>
                             <h1>Countries &#38; Territories</h1>
                             <h2>Around The World:</h2>
                             <h3>More functionality coming soon...</h3>
