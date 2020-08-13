@@ -7,7 +7,7 @@ import { fetchCountries } from '../store';
 import CountryCard from './CountryCard';
 
 const CountriesContainer = styled.section`
-    background-color: rgb(42, 73, 84);
+    background-color: #2d545e;
     display: flex;
     flex-flow: row wrap;
     width: 100%;

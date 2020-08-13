@@ -24,9 +24,12 @@ const CountryContainer = styled.article`
         ul {
             text-align: right;
             margin: 0 5%;
+            padding: 3%;
+            background-color: rgba( 47, 48, 48, 0.9);
 
             li {
                 text-align: right;
+                margin: 0.5% auto;
             }
         }
     }

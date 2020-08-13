@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+  background-color: black;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Patrick+Hand&display=swap');
 
 #Kabul  {
   background-image: url('https://images.unsplash.com/photo-1507234897433-06646bd0e673?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80');
@@ -819,7 +822,94 @@
   border: 4px solid black;
 }
 
-# {
+#Rabat {
+  background-image: url('https://images.unsplash.com/photo-1564507004663-b6dfb3c824d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+
+#Maputo {
+  background-image: url('https://images.unsplash.com/photo-1544298943-4c10be26bd29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1141&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Naypyidaw {
+  background-image: url('https://images.unsplash.com/photo-1556967789-e6512208cf68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Windhoek {
+  background-image: url('https://images.unsplash.com/photo-1536270213414-83e51bdcdd74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Yaren {
+  background-image: url('https://images.unsplash.com/photo-1553947315-42cee3c8c771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+
+#Kathmandu {
+  background-image: url('https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Amsterdam {
+  background-image: url('https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=994&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Nouméa {
+  background-image: url('https://images.unsplash.com/photo-1591187578386-42764ecf6599?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Wellington {
+  background-image: url('https://images.unsplash.com/photo-1557589747-a830b99db298?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+
+#Managua {
+  background-image: url('https://images.unsplash.com/photo-1501327825011-e83b7080b0f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Niamey {
+  background-image: url('https://images.unsplash.com/photo-1578309743751-5f1780eaf1dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=501&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Abuja {
+  background-image: url('https://images.unsplash.com/photo-1572816225927-d08fb138f2b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Pyongyang {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
@@ -827,238 +917,499 @@
 }
 
 
-# {
-  background-image: url('');
+#Saipan {
+  background-image: url('https://images.unsplash.com/photo-1510574243370-25fe8a740536?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Oslo {
+  background-image: url('https://images.unsplash.com/photo-1544085311-11a028465b03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Muscat {
+  background-image: url('https://images.unsplash.com/photo-1558473793-8815812e186c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
+#Islamabad {
+  background-image: url('https://images.unsplash.com/photo-1514558427911-8e293bebf18c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
 
-# {
-  background-image: url('');
+#Ngerulmud {
+  background-image: url('https://images.unsplash.com/photo-1568860650420-b447af2c1ecb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Ramallah {
+  background-image: url('https://images.unsplash.com/photo-1595761360926-4be9119056ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1191&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Asunción {
+  background-image: url('https://images.unsplash.com/photo-1589932963262-bcadcc5037d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
+#Lima {
+  background-image: url('https://images.unsplash.com/photo-1545330785-15356daae141?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1154&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
 
-# {
+#Manila {
+  background-image: url('https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Adamstown {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Warsaw {
+  background-image: url('https://images.unsplash.com/photo-1496661274775-a86a124b9df3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
+#Lisbon {
+  background-image: url('https://images.unsplash.com/photo-1579819289072-8b98ed418b78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
 
-# {
-  background-image: url('');
+#Doha {
+  background-image: url('https://images.unsplash.com/photo-1507904139316-3c7422a97a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1012&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Pristina {
+  background-image: url('https://images.unsplash.com/photo-1505255840798-07d347bdfb67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
+#Saint-Denis {
+  background-image: url('https://images.unsplash.com/photo-1566324641238-74b06f690664?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
-  background-repeat:no-repeat;
-  background-size: cover;
-  border: 4px solid black;
-}
-
-# {
-  background-image: url('');
+#Bucharest {
+  background-image: url('https://images.unsplash.com/photo-1518887668165-8fa91a9178be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
 
-# {
+#Moscow {
+  background-image: url('https://images.unsplash.com/photo-1563166796-befbbd534d1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Kigali {
+  background-image: url('https://images.unsplash.com/photo-1511283878565-0833bf39de9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Gustavia {
+  background-image: url('https://images.unsplash.com/photo-1551213365-54cb536fb765?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Jamestown {
+  background-image: url('https://images.unsplash.com/photo-1594351511786-336070cb8994?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Basseterre {
+  background-image: url('https://images.unsplash.com/photo-1591490167531-6d92e11e7ff7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Castries {
+  background-image: url('https://images.unsplash.com/photo-1471995606044-d5222f0f91d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Marigot {
+  background-image: url('https://images.unsplash.com/photo-1549048144-899e8172ca6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Saint-Pierre {
+  background-image: url('https://images.unsplash.com/photo-1573853828595-409825d20287?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Kingstown {
+  background-image: url('https://images.unsplash.com/photo-1589772420968-332cfffea7a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Apia {
+  background-image: url('https://images.unsplash.com/photo-1533105045747-b9d71a0955f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=964&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Riyadh {
+  background-image: url('https://images.unsplash.com/photo-1529177926897-1d894ca01471?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Dakar {
+  background-image: url('https://images.unsplash.com/photo-1517521741901-07255c9dbb0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Belgrade {
+  background-image: url('https://images.unsplash.com/photo-1465726395152-3f57db35981a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Victoria {
+  background-image: url('https://images.unsplash.com/photo-1519549204475-438065bd441a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Freetown {
+  background-image: url('https://images.unsplash.com/photo-1509100226070-1744f3cd5642?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Singapore {
+  background-image: url('https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=968&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Philipsburg {
+  background-image: url('https://images.unsplash.com/photo-1532453792946-81382bacd157?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Bratislava {
+  background-image: url('https://images.unsplash.com/photo-1470043201067-764120126eb4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Ljubljana {
+  background-image: url('https://images.unsplash.com/photo-1540464740528-c4fa01b7ed60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Honiara {
+  background-image: url('https://images.unsplash.com/photo-1596674562226-7e5721bc7ed5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Mogadishu {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
+#Pretoria {
+  background-image: url('https://images.unsplash.com/photo-1484318571209-661cf29a69c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Seoul {
+  background-image: url('https://images.unsplash.com/photo-1525762867061-21c9fb70b15a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Juba {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
+#Madrid {
+  background-image: url('https://images.unsplash.com/photo-1495562569060-2eec283d3391?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Colombo {
+  background-image: url('https://images.unsplash.com/photo-1519566335946-e6f65f0f4fdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Khartoum {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
-# {
+#Paramaribo {
+  background-image: url('https://images.unsplash.com/photo-1444466194851-3b0c9f181f3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Longyearbyen {
+  background-image: url('https://images.unsplash.com/photo-1592842109885-733a82c4c5af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Lobamba {
+  background-image: url('https://images.unsplash.com/photo-1519808805693-e7bf915e7bfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Stockholm {
+  background-image: url('https://images.unsplash.com/photo-1508500709478-37a0e8d6603c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Bern {
+  background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Damascus {
+  background-image: url('https://images.unsplash.com/photo-1580310219243-dbad8c44e576?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Taipei {
+  background-image: url('https://images.unsplash.com/photo-1470004914212-05527e49370b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1226&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Dushanbe {
+  background-image: url('https://images.unsplash.com/photo-1512491035250-beddf64d1f5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Dodoma {
+  background-image: url('https://images.unsplash.com/photo-1467221973068-7abf710bbf54?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1147&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Bangkok {
+  background-image: url('https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Dili {
+  background-image: url('https://images.unsplash.com/photo-1591325408953-ef9298125f96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Lomé {
+  background-image: url('https://images.unsplash.com/photo-1541000020894-321f175f5a69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Fakaofo {
   background-image: url('');
   background-repeat:no-repeat;
   background-size: cover;
   border: 4px solid black;
 }
 
+#Tunis {
+  background-image: url('https://images.unsplash.com/photo-1563657722481-021741330df8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
 
+#Ankara {
+  background-image: url('https://images.unsplash.com/photo-1433838552652-f9a46b332c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Ashgabat {
+  background-image: url('https://images.unsplash.com/photo-1448772917253-74bbbe249b30?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Funafuti {
+  background-image: url('');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Kampala {
+  background-image: url('https://images.unsplash.com/photo-1534835779297-29b3ca73c17e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Kiev {
+  background-image: url('https://images.unsplash.com/photo-1529511582893-2d7e684dd128?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1190&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#London {
+  background-image: url('https://images.unsplash.com/photo-1467681336765-a6d1c58c61e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Montevideo {
+  background-image: url('https://images.unsplash.com/photo-1532383715476-afe0779fe659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Tashkent {
+  background-image: url('https://images.unsplash.com/photo-1594629609174-00db53036357?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Caracas {
+  background-image: url('https://images.unsplash.com/photo-1530828079982-58f3de020d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Hanoi {
+  background-image: url('https://images.unsplash.com/photo-1528127269322-539801943592?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Mata-Utu {
+  background-image: url('');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Lusaka {
+  background-image: url('https://images.unsplash.com/photo-1484505159507-7e4842da61e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1325&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
+
+#Harare {
+  background-image: url('https://images.unsplash.com/photo-1488158302608-a31885ac02ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border: 4px solid black;
+}
 
 .App-logo {
   height: 40vmin;
