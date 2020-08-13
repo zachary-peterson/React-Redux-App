@@ -21,15 +21,13 @@ const CountryContainer = styled.article`
         text-shadow: 2px 2px #000000;
         font-size: 1.25rem;
         border: 3px solid white;
+        transition: 0.5s;
+        transition-timing-function: ease-in-out;
 
         &:hover {
             background-color: #755634;
             border: 3px solid black;
-
-            ul {
-                background-color: rgba( 47, 48, 48, 1);
-                border: 2px solid black;
-            }
+            transition: 0.5s;
         }
 
         h2 {
