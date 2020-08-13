@@ -20,6 +20,7 @@ const AroundTheWorld = styled.header`
         padding-bottom: 1%;
         background-color: #12343b;
         margin: 1% 2%;
+        border: 5px solid white;
 
         div {
             background-image: url('https://images.unsplash.com/photo-1503220954697-e02095e8e0d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
