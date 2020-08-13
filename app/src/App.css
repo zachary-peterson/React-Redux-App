@@ -1,9 +1,13 @@
 .App {
   text-align: center;
   background-color: black;
+  border: 20px solid black;
+  margin: 0 0;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Patrick+Hand&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@500&family=Rowdies:wght@700&display=swap');
 
 #Kabul  {
   background-image: url('https://images.unsplash.com/photo-1507234897433-06646bd0e673?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80');

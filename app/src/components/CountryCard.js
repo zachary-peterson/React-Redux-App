@@ -20,16 +20,31 @@ const CountryContainer = styled.article`
         color: white;
         text-shadow: 2px 2px #000000;
         font-size: 1.25rem;
+        border: 3px solid white;
+
+        h2 {
+            font-family: 'Rowdies', cursive;
+            font-size: 3.5rem;
+        }
+
+        h3  {
+            font-family: 'Baloo Chettan 2', cursive;
+            font-size: 2rem;
+        }
 
         ul {
             text-align: right;
             margin: 0 5%;
             padding: 3%;
-            background-color: rgba( 47, 48, 48, 0.9);
+            background-color: rgba( 47, 48, 48, 0.8);
+            border: 2px solid white;
 
             li {
                 text-align: right;
-                margin: 0.5% auto;
+                margin: 0.5% 2%;
+                margin-left: 3%;
+                font-family: 'Baloo Chettan 2', cursive;
+                font-size: 1.25rem;
             }
         }
     }

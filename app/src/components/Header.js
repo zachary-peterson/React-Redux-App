@@ -23,11 +23,12 @@ const AroundTheWorld = styled.header`
 
         div {
             background-color: #271e0c;
+            border: 5px solid white;
 
             div {
                 background-color: #755634;
-                margin: 1% 2%;
-                border: 5px solid #ccad8c;
+                margin: 3% 3%;
+                border: 5px solid black;
                 
                 h1 {
                     font-family: 'Delius Unicase', cursive;
@@ -41,7 +42,7 @@ const AroundTheWorld = styled.header`
                     padding: 2% 2%;
                     background-color: #2c381a;
                     font-family: 'Patrick Hand', cursive;
-                    border: 5px solid #ccad8c;
+                    border: 5px solid white;
                     text-shadow: 2px 2px #271e0c;
                 }
             }

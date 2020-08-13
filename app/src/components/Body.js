@@ -12,6 +12,7 @@ const CountriesContainer = styled.section`
     flex-flow: row wrap;
     width: 100%;
     margin: 1% auto;
+    border: 5px solid white;
 `
 
 const Body = (props) => {
